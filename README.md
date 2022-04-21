@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/darioribeiror">
-  <img height="240em" src="https://github-readme-stats.vercel.app/api?username=darioribeiror&show_icons=false&theme=dinky&include_all_commits=true&count_private=true"/>
-  <img height="157em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darioribeiror&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="240em" src="https://github-readme-stats.vercel.app/api?username=darioribeiror&show_icons=false&theme=minimal&include_all_commits=true&count_private=true"/>
+  <img height="157em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darioribeiror&layout=compact&langs_count=7&theme=minimal"/>
 </div>
  
 <!--
